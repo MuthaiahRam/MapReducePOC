@@ -1,0 +1,5 @@
+c9,h9,h5,d10,c10,cA,s7,d9,J1,h3,s9,c2,sA,dJ,h10,sK,h7,dA,s6,dQ,s10,dK,hA,s2,hK,d4,d7,c3,c4,hQ,d6,c6,d3,s8,J2,d5,c5,cK,c8,s4,h4,cQ,d2,h6,hJ,d8,c7,cJ,s3,s5,h8,sQ,sJ,h2
+d5,c4,sK,J2,cA,s4,c8,c2,h2,h5,d7,dK,cJ,c10,d4,dQ,d10,d3,hJ,cK,s2,c7,dJ,h3,hA,d2,h6,d9,h4,h10,h8,cQ,c5,c9,c6,sQ,dA,sJ,s8,h9,hK,s3,h7,s10,d8,s9,hQ,sA,s5,s7,s6,J1,c3,d6
+h5,hA,h4,s4,d9,h3,h7,c4,h6,cK,c9,dQ,s8,s6,cQ,h2,sJ,d8,d5,s9,s10,c7,s5,d3,sK,c5,cJ,dA,hK,c3,d4,h8,s7,sQ,d6,hJ,c6,J1,c2,d2,J2,dK,dJ,s3,h10,s2,d7,c8,sA,hQ,d10,c10,h9,cA
+d8,sK,h4,sJ,cK,c10,cQ,s6,s2,s7,h10,h3,c2,d10,dQ,hQ,c4,h6,sQ,h2,d7,cJ,s3,h9,c8,s10,hJ,dK,h8,c5,hA,s8,d9,sA,h5,cA,c6,c9,dJ,s9,s5,d6,dA,d4,d2,c3,d3,J1,c7,h7,d5,hK,s4,J2
+hQ,hK,d8,s2,J1,sA,hA,h3,h2,d2,h4,h7,d5,h10,dQ,hJ,cQ,d6,dA,d10,cA,s8,s6,c4,d7,sJ,c6,c5,h5,c2,c9,c10,sK,s5,dJ,dK,c8,d4,sQ,s10,c3,s3,h6,d3,d9,cJ,h9,s7,c7,s9,h8,s4,J2,cK
